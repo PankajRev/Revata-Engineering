@@ -1,0 +1,269 @@
+@media screen and (min-width: 1920px) {
+.introductionsegment{width: 1500px;border-right: 1px solid #ddd;border-left: 1px solid #ddd;}
+.revataproductsegment{width: 1500px;}
+.revatatubularprotection{width: 1500px;}
+.revabullwiper{width: 1500px;}
+.innersection{width: 1500px;}
+.revatabottomsection{width: 1500px;}
+.revatalatestnews{width: 1500px;}
+.only-mobile{display:none;margin-top:51px;}
+.navbar-default .navbar-nav>li>a{color:#FED001;font-size:18px;padding:8px 18px;font-weight: 400;}
+.whowe{height: 450px;width: 1500px;;}
+.navigationbar{width: 1500px;}
+
+}
+
+
+
+@media screen and (max-width: 1918px) {
+.introductionsegment{width: 1500px;}
+.revataproductsegment{width:1500px;}
+.revatatubularprotection{width: 1500px;}
+.revabullwiper{width: 1500px;}
+.revatabottomsection{width: 1500px;}
+.footerimge{padding-top: 30px;}
+.subfooter{width: 100%}
+.footermobile{width: 100%;border-left: 1px solid #ddd;border-right: 1px solid #ddd;}
+.productimg{width: auto;}
+.innersection{width: 1500px;}
+.revatatubularpro{margin: 0 auto;}
+.revatalatestnews{width: 1500px;}
+.only-mobile{display:none;margin-top:51px;}
+.whowe{height: 450px;}
+.navigationbar{width: 100%;}
+.navbar-default .navbar-nav > li > a {
+    color: #FED001;
+    font-size: 18px;
+    padding: 8px 18px;
+    font-weight: 400;
+  }
+}
+
+
+
+
+
+@media screen and (max-width: 1600px) {
+.innersection{width: 1400px;}
+.revatalatestnews{width: 1400px;}
+.introductionsegment{width: 1400px;}
+.revataproductsegment{width:1400px;}
+.revatatubularprotection{width: 1400px;}
+.revabullwiper{width: 1400px;}
+.revatabottomsection{width: 1400px;}
+.airialogo{width: 90px;}
+.iadclogo{width: 150px;}
+.eepcimg{width: 150px;}
+.mcciaimg{width: 150px;}
+.navigationbar{width: 100%;}
+
+
+}
+
+
+@media screen and (max-width: 1449px) {
+.blogs{height: 217px;}
+.introductionsegment{width: 1200px;}
+.revataproductsegment{width: 1200px;}
+.revatatubularprotection{width: 1200px;}
+.revabullwiper{width: 1200px;}
+.revatabottomsection{width: 1200px;}
+.innersection{width: 1200px;}
+.blogs{height: 281px;}
+.revatalatestnews{width: 1200px;}
+}
+.maincontant {
+  font-size: 14px;
+  height: 340px;
+  width: 100%;
+  border-radius: 4px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+  webkit-box-shadow: none;
+  box-shadow: none;
+  border-left: 1px solid #d9d9d9;
+  border-right: 1px solid #d9d9d9;
+}
+
+
+
+
+@media screen and (max-width: 1386px) {
+.introductionsegment{width: 1200px;}
+.revataproductsegment{width: 1200px;}
+.revatatubularprotection{width: 1200px;}
+.revabullwiper{width: 1200px;}
+.revatabottomsection{width: 1200px;}
+.revatalatestnews{width: 1200px;}
+.innersection{width: 1200px;}
+.bottomborder2{width: 45%;}
+.fb {width: 21px;}
+.eepcimg {width: 152px}
+.mcciaimg {width: 152px}
+.airialogo {width: 80px;}
+.iadclogo {width: 140px;}
+.navbar-default .navbar-nav > li > a {
+    color: #FED001;
+    font-size: 15px;
+    padding: 8px 15px;
+    font-weight: 600;
+  }
+  .navbar-default .navbar-nav > li > a {
+    padding: 8px 20px !important;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+.drillingpro{margin-bottom: 20px;}
+.revataheading {margin-top: 8px;}
+h2{font-size: 22px;}
+.pthreadprotector{margin-bottom: 10px;}
+.relatedproductslinks{margin-bottom: 10px;padding-top: 15px;}
+.introductionsegment{width: 1000px;}
+.revataproductsegment{width: 1000px;}
+.revatatubularprotection{width: 1000px;}
+.revabullwiper{width: 1000px;}
+.revatabottomsection{width: 1000px;}
+.revatalatestnews {width: 1000px;}
+.innersection{width: 1000px;}
+.eepcimg {width: 130px}
+.mcciaimg {width: 130px}
+.airialogo {width: 70px;}
+.iadclogo {width: 130px;}
+.navbar-default .navbar-nav > li > a{padding: 18px 20px;}
+
+}
+
+
+@media screen and (max-width: 1170px) {
+.navbar-default .navbar-nav > li > a {font-size: 14px !important;}
+.collapse.navbar-collapse.js-navbar-collapse.mainnav{max-width: 970px;}
+.collapse.navbar-collapse.js-navbar-collapse.mainnav{padding:0px 0px;}
+table.gsc-search-box{width: 160px !important;}
+.navbar-default .navbar-nav > li > a{padding: 18px 15px;}
+.navbar-default .navbar-nav > li > a{font-size: 18px;}
+.mega-dropdown-menu .dropdown-header{font-size: 14px;}
+.maincontant{font-size: 12px;padding:0px 5px;}
+.introductionsegment{width: 1000px;}
+.revataproductsegment{width: 1000px;}
+.revatatubularprotection{width: 1000px;}
+.revabullwiper{width: 1000px;}
+.revatabottomsection{width: 1000px;}
+.revatalatestnews {width: 1000px;}
+.innersection{width: auto;}
+.list-inline > li {padding-left: 0px;padding-right: 0px;}
+.eepcimg {width: 120px}
+.mcciaimg {width: 120px}
+.airialogo {width: 60px;}
+.iadclogo {width: 120px;}
+.sublinks{font-size: 10px;}
+.navbar-default .navbar-nav > li > a {
+    padding: 8px 14px !important;
+ 
+}
+
+
+@media screen and (max-width: 1107px) {
+h1{font-size: 17px;}
+.revataproductinformation{font-size: 14px;}
+.eepcimg {width: 125px}
+.mcciaimg {width: 125px}
+.fb {width: 19px}
+.revatarow{margin-bottom: 15px;float: right;}
+
+}
+
+
+@media screen and (max-width: 969px) {
+.collapse.navbar-collapse.js-navbar-collapse.mainnav{max-width: 800px;}
+table.gsc-search-box{width: 130px !important;}
+.navbar-nav > li > a {padding: 18px 7px !important;}
+.navbar-default .navbar-nav > li > a{padding: 18px 12px;}
+.maincontant{font-size: 11px;padding:0px 5px;}
+.mega-dropdown-menu .dropdown-header{font-size: 12px;}
+.maincontant{}
+.blogs{height: 273px;}
+.revataheading {margin-top: 8px;}
+h2{font-size: 22px;}
+.bottomborder2{width: 80%;}
+.introductionsegment{width: auto;}
+.revataproductsegment{width: auto;}
+.revatatubularprotection{width: auto;}
+.revabullwiper{width: auto;}
+.revatabottomsection{width: auto;}
+.revatalatestnews {width: auto;}
+.innersection{width: auto;}
+.bottomborder2 {width: 95%;}
+.blogs {height: 350px;}
+.aboutus2{display: none;}
+.airialogo {width: 100px;}
+.iadclogo {width: 160px;}
+.eepcimg{width: 160px;}
+.mcciaimg{width: 160px;}
+.fb {width: 26px;}
+.list-inline > li{padding-left: 6px;}
+.navbar-default .navbar-nav > li > a {font-size: 12px !important;}
+.navbar-default .navbar-nav > li > a {
+    padding: 8px 10px !important;
+  }
+}
+
+
+@media screen and (max-width: 799px) {
+.revataproductinformation{font-size: 11px;}
+.navbar-default .navbar-nav > li > a{font-size: 16px;}
+.introductionsegment{width: auto;}
+.revataemainhead{width: 60%;}
+
+
+
+}
+
+
+@media screen and (max-width: 767px) {
+.only-mobile {display: block !important;}
+#revatanewnav{display: none !important;visibility: hidden;}
+.newsblog{display: none;}
+.latestne{display: none;}
+.isoo{display: none;}
+.textcc{display: none;}
+.copyright1 li{display: none;}
+.copyright1{display: none;}
+.aboutus{display: none;}
+.singapo{font-size: 11px;}
+.subfooter{text-align: center;}
+.revatatubularpro{margin: 0 auto}
+.blogs{height: 310px;}
+.sociali{display: inline-flex;}
+.productssubt{display: block;}
+.mobile2{padding: 15px 15px;display: block;}	
+.mobile3{padding: 15px 15px;display: block;}	
+.mobile4{padding: 15px 15px;display: block;}	
+.mobile5{padding: 15px 15px;display: block;}
+.mobilehead1{font-size: 16px;}
+.revataproductinformation{display: block;}
+.revatatab1{border-right: none;margin-bottom: 8px;border-bottom: 1px solid #ddd;}
+.relatedproducts{display: none;}
+.revataheading {margin-top: 8px;}
+h2{font-size: 22px;}
+.panel-group{display: none;}
+.clickhere{display: none;}
+.textbox{margin-top: 0px;display: none;}
+.footermobile{margin-top: -2px;}
+
+}
+
+
+@media screen and (max-width: 471px) {
+.copyright2{width: auto;}
+.footermobile {background-color: #414045;padding-left: 45px;margin-top: -1px;}
+.list-inline > li{padding-left: 12px;}
+.fb {width: 27px;}
+.revatarow{float: left;}
+.printandemail{float: left;}
+}
+
+
+@media screen and (max-width: 360px) {
+.footermobile {background-color: #414045;padding-left: 45px;margin-top: -2px;
+}
